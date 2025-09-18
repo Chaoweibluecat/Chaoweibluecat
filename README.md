@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/Chaoweibluecat/Chaoweibluecat/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -66,19 +72,6 @@
 [![Chaowei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaoweibluecat&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Chaoweibluecat/Chaoweibluecat/output/github-contribution-grid-snake.svg)
-
-</div>
-
-
----
 
 <div align="center">
   
